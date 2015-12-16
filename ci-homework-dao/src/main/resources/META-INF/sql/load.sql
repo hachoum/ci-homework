@@ -1,0 +1,3 @@
+INSERT INTO ENTREPRISE(denom_entreprise,siren_entreprise,cnaf_entreprise,fju_entreprise,dcre_entreprise) VALUES ('darty',1234,'naf001','fj001','1980-04-15');
+INSERT INTO ENTREPRISE(denom_entreprise, siren_entreprise , cnaf_entreprise ,fju_entreprise, dcre_entreprise) VALUES ('smartitlab',12345,'naf002','fj002','1980-04-15');
+INSERT INTO ENTREPRISE(denom_entreprise, siren_entreprise , cnaf_entreprise ,fju_entreprise, dcre_entreprise) VALUES ('edf',12346,'naf003','fj003','1980-06-15');

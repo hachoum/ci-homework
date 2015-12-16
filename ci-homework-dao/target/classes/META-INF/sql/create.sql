@@ -1,0 +1,2 @@
+CREATE TABLE ENTREPRISE (id_entreprise Long not null AUTO_INCREMENT primary key,denom_entreprise VARCHAR(200) not null,siren_entreprise Integer,cnaf_entreprise VARCHAR(50),fju_entreprise VARCHAR(50),dcre_entreprise Date,dmi_entreprise Date );
+--CREATE TABLE ETABLISSEMENT (id_entreprise Long not null primary key,siret_etablissement Integer not null,adr_etablissement VARCHAR(500),siege BOOLEAN,id_entreprise Long );
